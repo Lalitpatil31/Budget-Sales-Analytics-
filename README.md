@@ -7,6 +7,9 @@ Welcome to the Budget Sales Analytics project! This repository is dedicated to a
 
 ## Project Goals
 -Analyze Sales Data: Break down historical sales data to identify key trends and patterns.
+
 -Evaluate Budget Allocation: Assess how different budget allocations influence sales outcomes.
+
 -Develop Predictive Models: Create models to forecast future sales performance based on budget strategies.
+
 -Visualize Insights: Generate intuitive visualizations to communicate findings effectively.
