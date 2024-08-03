@@ -13,3 +13,45 @@ Welcome to the Budget Sales Analytics project! This repository is dedicated to a
 -Develop Predictive Models: Create models to forecast future sales performance based on budget strategies.
 
 -Visualize Insights: Generate intuitive visualizations to communicate findings effectively.
+
+## Dataset 📀
+[Adventure-Works Data](https://drive.google.com/file/d/1-frhqjoqohwOIO1zPxtuffqSmVF5LFYp/view)
+
+## Technology �
+Business Intelligence
+## Domain 🛒
+Retail & Sales
+## Project Difficulty level 🥇
+Advanced
+## Programming Language 💻
+Python, DAX and Power Query M
+## Tools 🛠
+Jupyter Notebook, MS-Excel, MS-Power BI
+
+## Approach (Architecture) ⚙
+
+
+
+![188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136](https://github.com/user-attachments/assets/f71893de-be85-4684-9af4-04a63b5444b3)
+
+
+
+
+
+
+## Conclusion 💡
+- A sizable portion of the clientele is made up of people between the ages of 40 and 59
+- The year 2016 saw an exponential surge in sales
+- High quantity of products is ordered from Australia and United States
+- Major Profit is contributed by the Bike Category
+- The average order has a gap of 7 days between the day the order is ready for export from the factory and the date it was shipped
+- Maximum profit earned in the months of June, November, and December
+- High sales orders are seen on Wednesday and Saturday, when compared to other weekdays
+- There is a high negative correlation between Price and number of Quantity ordered
+- The average amount spent by men without permanent addresses is low, whilst the average amount spent by women without permanent addresses is higher
+- Age range of 40-49 and 50-59 is shows high demand compared to other age group
+- High salary range leads to increase in revenue
+- Customers with a high school diploma and modest annual income buy more products than people with bachelor's degrees
+- According to the customer segmentation described above, approximately 15% of our clients are high value clients, whereas the majority of our clientele are low value and lost clients
+- Client retention in 2014 was subpar
+- 2016 brought about a slight improvement in retention
