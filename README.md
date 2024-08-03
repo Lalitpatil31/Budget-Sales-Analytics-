@@ -22,13 +22,14 @@ come up with your findings.
 
 
 ## Project Goals
--Analyze Sales Data: Break down historical sales data to identify key trends and patterns.
 
--Evaluate Budget Allocation: Assess how different budget allocations influence sales outcomes.
+- Analyze Sales Data: Break down historical sales data to identify key trends and patterns.
 
--Develop Predictive Models: Create models to forecast future sales performance based on budget strategies.
+- Evaluate Budget Allocation: Assess how different budget allocations influence sales outcomes.
 
--Visualize Insights: Generate intuitive visualizations to communicate findings effectively.
+- Develop Predictive Models: Create models to forecast future sales performance based on budget strategies.
+
+- Visualize Insights: Generate intuitive visualizations to communicate findings effectively.
 
 ## Dataset 📀
 [Adventure-Works Data](https://drive.google.com/file/d/1-frhqjoqohwOIO1zPxtuffqSmVF5LFYp/view)
